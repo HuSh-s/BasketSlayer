@@ -1,0 +1,5 @@
+C:/Users/semih/Desktop/Unity/Unity Proje/BasketSlayer/.utmp/RelWithDebInfo/4j6m2518/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/semih/Desktop/Unity/Unity Proje/BasketSlayer/.utmp/RelWithDebInfo/4j6m2518/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/semih/Desktop/Unity/Unity Proje/BasketSlayer/.utmp/RelWithDebInfo/4j6m2518/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/semih/Desktop/Unity/Unity Proje/BasketSlayer/.utmp/RelWithDebInfo/4j6m2518/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/semih/Desktop/Unity/Unity Proje/BasketSlayer/.utmp/RelWithDebInfo/4j6m2518/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:\Users\semih\Desktop\Unity\Unity Proje\BasketSlayer\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\semih\Desktop\Unity\Unity Proje\BasketSlayer\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
